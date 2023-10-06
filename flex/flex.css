@@ -1,0 +1,77 @@
+body {
+    height: 700px; 
+    /* background-color: red; */ 
+   /* padding: 1rem; */
+ }
+ 
+ .nav {
+   background-color: grey;
+   height: 3rem;
+   display: flex;
+   justify-content: space-between;
+   align-items: center; 
+
+ }
+ .pNav {
+   /* margin-left: 10px; */
+   padding: 5px;
+ }
+ .days{
+    
+     
+ }
+ .container {
+   display: flex; 
+   justify-content: space-between;
+   /* background-color: black;  */
+   width: 100%;
+   height: 500px;
+ }
+ .todo {
+   background-color: grey;
+   height: 500px;
+   width: 30%;
+   padding: 5px;
+   margin-top: 20px;
+   /* float: right;   */
+ }
+ .todo1 {
+   background-color: #fff;
+   padding: 5px;
+   height: 102px;
+ }
+ img {
+   height: 20px;
+   width: 20px;
+   border-radius: 60px;
+   float: right; 
+ }
+ .todo2 {
+   background-color: #fff;
+   padding: 5px;
+   margin-top: 30px;
+   height: 102px;
+ }
+ .p1 {
+   font-weight: bold;
+ }
+ .pt {
+   font-weight: bold;
+ }
+ .Progress { 
+   background-color: grey;
+   height: 500px;
+   width: 30%;
+   padding: 5px;
+   margin-top: 20px;
+   margin-bottom: 100px;
+   /* float: right; */
+ }
+ .done { 
+   background-color: grey;
+   height: 500px;
+   width: 30%;
+   padding: 5px;
+   margin-top: 20px;
+   /* float: right; */
+ }
